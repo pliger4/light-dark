@@ -47,4 +47,3 @@ if (currentTheme) {
     modeSwap('dark', 0, 255, 'sun', 'moon');
   }
 }
-© 2021 GitHub, Inc.
